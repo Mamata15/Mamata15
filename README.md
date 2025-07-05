@@ -7,7 +7,11 @@
 
 I'm a passionate full stack developer based in Bangalore who loves building meaningful digital experiences — from scalable backend APIs to clean and responsive frontends.
 
-After starting my career in QA automation, I shifted my focus to full-stack development because I love being involved in both the **how** and the **why** behind products. Whether it’s integrating YouTube APIs, crafting Firebase notifications, or shaping beautiful React components — I’m always up for building something useful and impactful.
+After starting my career in QA automation, I shifted my focus to full-stack development because I enjoy being involved in both the **how** and the **why** behind a product.
+
+Whether it's integrating YouTube APIs, implementing real-time notifications, or designing clean React components — I love crafting things that solve real-world problems.
+
+💬 I'm also actively involved in **client meetings** to **demo, explain, and promote our product offerings**, which has helped me improve both my technical communication and business understanding.
 
 ---
 
@@ -15,8 +19,8 @@ After starting my career in QA automation, I shifted my focus to full-stack deve
 
 - 🔙 **Backend:** Java, Spring Boot, REST APIs, MySQL  
 - 🎨 **Frontend:** React.js, HTML5, CSS3, JavaScript  
-- 🔔 **Tools & Services:** Postman, GitHub, AWS, Android Studio  
-- 📲 **Practicing:** Clean architecture, performance optimization, and UI/UX design
+- 🔔 **Tools & Services:** Postman, GitHub, AWS, Firebase, Android Studio  
+- 🧠 **Practicing:** Clean architecture, performance optimization, UI/UX design
 
 ---
 
@@ -38,34 +42,46 @@ A platform for audio-based learning.
 
 ## 🎯 What I'm Up To Now
 
+- 🔄 Building reusable components in React and microservices in Spring Boot  
+- 🚀 Experimenting with Tailwind CSS, Firebase, and UI animations  
+- 💼 Participating in client demos and product presentations  
+- 🧮 Sharpening DSA and system design fundamentals
+
+---
+
 ## 🧮 DSA Practice
 
-I’m sharpening my problem-solving skills daily and practicing popular patterns like Two Pointers, Sliding Window, and Dynamic Programming.
+I'm actively solving DSA problems on platforms like LeetCode and exploring key patterns such as:
 
-- 🔗 [My LeetCode Profile](https://leetcode.com/u/MamataC15/)
-- 🔄 Building reusable components in React and microservices in Spring Boot
-- 🚀 Experimenting with Tailwind and UI animations
+- Two Pointers  
+- Sliding Window  
+- Recursion & Backtracking  
+- Dynamic Programming  
 
+🔗 [My LeetCode Profile](https://leetcode.com/u/MamataC15/)
+
+---
 
 ## 🎓 My Learning Journey
 
-I come from a solid technical background:  
-🎓 B.E. in Computer Science (NMIT, Bangalore)  
-🎓 Diploma in CSE (Ramaiah Polytechnic)  
-📘 Full Stack Course (JSpiders – Java, Spring Boot, React, MySQL)
+I come from a strong technical background:
 
-I believe in **growing a little every day** — in code and in life 💫
+- 🎓 B.E. in Computer Science – NMIT, Bangalore  
+- 🎓 Diploma in CSE – Ramaiah Polytechnic  
+- 📘 Full Stack Developer Bootcamp – JSpiders (Java, Spring Boot, React, MySQL)
+
+I believe in growing **1% better every day** — in both code and life 🌱
 
 ---
 
 ## ✨ Let’s Connect
 
-If you're building something exciting or just want to geek out over Spring Boot, feel free to connect!
+If you're working on something awesome — let's talk tech or collaborate!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mamatahc)
 - 💻 [GitHub](https://github.com/Mamata15)
-- 📧 mamatahc55@gmail.com
 - 🌐 [Quantum Share (Live App)](https://quantumshare.quantumparadigm.in)
+- 📧 mamatahc55@gmail.com
 
 ---
 
