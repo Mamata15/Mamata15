@@ -15,7 +15,7 @@ After starting my career in QA automation, I shifted my focus to full-stack deve
 
 - 🔙 **Backend:** Java, Spring Boot, REST APIs, MySQL  
 - 🎨 **Frontend:** React.js, HTML5, CSS3, JavaScript  
-- 🔔 **Tools & Services:** Firebase, Postman, Selenium, GitHub, AWS, Android Studio  
+- 🔔 **Tools & Services:** Postman, GitHub, AWS, Android Studio  
 - 📲 **Practicing:** Clean architecture, performance optimization, and UI/UX design
 
 ---
@@ -44,7 +44,7 @@ I’m sharpening my problem-solving skills daily and practicing popular patterns
 
 - 🔗 [My LeetCode Profile](https://leetcode.com/u/MamataC15/)
 - 🔄 Building reusable components in React and microservices in Spring Boot
-- 🚀 Experimenting with Tailwind, Firebase, and UI animations
+- 🚀 Experimenting with Tailwind and UI animations
 
 
 ## 🎓 My Learning Journey
@@ -52,7 +52,7 @@ I’m sharpening my problem-solving skills daily and practicing popular patterns
 I come from a solid technical background:  
 🎓 B.E. in Computer Science (NMIT, Bangalore)  
 🎓 Diploma in CSE (Ramaiah Polytechnic)  
-📘 Full Stack Course (JSpiders – Java, Spring Boot, React, MySQL, Firebase)
+📘 Full Stack Course (JSpiders – Java, Spring Boot, React, MySQL)
 
 I believe in **growing a little every day** — in code and in life 💫
 
@@ -64,7 +64,7 @@ If you're building something exciting or just want to geek out over Spring Boot,
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mamatahc)
 - 💻 [GitHub](https://github.com/Mamata15)
-- 📧 mamatac566@gmail.com
+- 📧 mamatahc55@gmail.com
 - 🌐 [Quantum Share (Live App)](https://quantumshare.quantumparadigm.in)
 
 ---
