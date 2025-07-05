@@ -1,107 +1,69 @@
-<h1 align="center">✨ Mamata H C ✨</h1>
-<p align="center">
-  <b>🚀 Full Stack Developer | Java | Spring Boot | React | Firebase | MySQL</b>  
-</p>
-<p align="center">
-  📍 Bangalore, India &nbsp;|&nbsp; 📧 <b>mamatac566@gmail.com</b>
-</p>
+<h1 align="center">Hey there! 👋 I'm Mamata H C</h1>
+<p align="center">🧑‍💻 Full Stack Developer | Java • Spring Boot • React • Firebase • MySQL</p>
 
 ---
 
-## 🔥 About Me
+## 💬 Who Am I?
 
-✨ I'm a passionate **Full Stack Developer** with **2+ years of experience**, currently building scalable web and mobile apps at **Quantum Paradigm**. I specialize in **Java, Spring Boot**, and **React.js**, with real-world experience integrating APIs, developing backend features, and enhancing frontend UX.
+I'm a passionate full stack developer based in Bangalore who loves building meaningful digital experiences — from scalable backend APIs to clean and responsive frontends.
 
-> 💡 “I build tech that connects people and solves real-world problems — with purpose, performance, and precision.”
-
----
-
-## 🧰 Tech Stack
-
-**👩‍💻 Languages:**  
-`Java` · `JavaScript` · `HTML5` · `CSS3`
-
-**⚙️ Backend:**  
-`Spring Boot` · `REST APIs` · `MySQL` · `Firebase` · `Postman`
-
-**🎨 Frontend:**  
-`React.js` · `HTML` · `CSS` · `JavaScript`
-
-**🧪 Testing & Tools:**  
-`Selenium` · `JIRA` · `GitHub` · `Android Studio` · `AWS`
+After starting my career in QA automation, I shifted my focus to full-stack development because I love being involved in both the **how** and the **why** behind products. Whether it’s integrating YouTube APIs, crafting Firebase notifications, or shaping beautiful React components — I’m always up for building something useful and impactful.
 
 ---
 
-## 💼 Work Experience
+## 🛠️ What I Work With
 
-### 🔹 **Quantum Paradigm** — *Full Stack Developer*  
-📍 Bangalore | 📆 *Jan 2024 – Present*
-
-- 🧠 Integrated YouTube Data API with backend analytics
-- 🔧 Developed Spring Boot services for profile image, subscriber count, and hashtags
-- 📲 Built Firebase notification system for web apps
-- 🎨 Enhanced UI/UX for mobile app templates (rated 4.5★ on Play Store)
-- 🤝 Conducted successful client demos and product launches
+- 🔙 **Backend:** Java, Spring Boot, REST APIs, MySQL  
+- 🎨 **Frontend:** React.js, HTML5, CSS3, JavaScript  
+- 🔔 **Tools & Services:** Firebase, Postman, Selenium, GitHub, AWS, Android Studio  
+- 📲 **Practicing:** Clean architecture, performance optimization, and UI/UX design
 
 ---
 
-### 🔹 **UST Global** — *Automation Engineer – Tester*  
-📍 Bangalore | 📆 *Feb 2022 – Feb 2023*
+## 🔥 What I’ve Built
 
-- ✅ Developed Selenium automation scripts for functional testing
-- 📬 Performed API testing using Postman
-- 🐞 Managed bug tracking and QA reports via JIRA
-- 🏆 Recognized for improving test automation efficiency
+### 📌 [Quantum Share](https://quantumshare.quantumparadigm.in)
+A global content-sharing platform that integrates multiple social media channels.  
+→ I led YouTube API backend integration, implemented hashtag features, and built Firebase web push notifications.
 
----
+### 📌 [Planotech App](https://play.google.com/store/apps/details?id=com.planotech.planotech)
+An Android event and media management app.  
+→ I worked on mobile UI templates, backend logic, and client-side support for app deployment.
 
-## 🌟 Featured Projects
-
-### 🔗 [**Quantum Share**](https://quantumshare.quantumparadigm.in)  
-> 🌍 A social media integration platform  
-- YouTube backend analytics  
-- Firebase web notifications  
-- Hashtag suggestion & post scheduling  
+### 📌 [Audio Fusion App](https://www.quantumparadigm.in/mobile-app-development/)
+A platform for audio-based learning.  
+→ I enhanced backend services for audio playback and built admin-level media controls.
 
 ---
 
-### 🔗 [**Planotech App**](https://play.google.com/store/apps/details?id=com.planotech.planotech)  
-> 📱 Event & media management mobile app  
-- Android Studio-based development  
-- Integrated backend & UI flow  
+## 🎯 What I'm Up To Now
+
+- 👩‍💻 Improving my DSA game (LeetCode, Codeforces)
+- 🔄 Building reusable components in React and microservices in Spring Boot
+- 🚀 Experimenting with Tailwind, Firebase, and UI animations
 
 ---
 
-### 🔗 [**Audio Fusion App**](https://www.quantumparadigm.in/mobile-app-development/)  
-> 🎧 Audio learning & streaming platform  
-- Built backend services for audio resource management  
-- Enhanced app performance & audio logic  
+## 🎓 My Learning Journey
+
+I come from a solid technical background:  
+🎓 B.E. in Computer Science (NMIT, Bangalore)  
+🎓 Diploma in CSE (Ramaiah Polytechnic)  
+📘 Full Stack Course (JSpiders – Java, Spring Boot, React, MySQL, Firebase)
+
+I believe in **growing a little every day** — in code and in life 💫
 
 ---
 
-## 📈 Currently Learning
+## ✨ Let’s Connect
 
-- 🧮 Mastering DSA patterns (Two Pointers, Sliding Window, DP)
-- 📦 Building reusable Spring Boot microservices
-- ✨ Enhancing frontend UI with React + Tailwind
-
----
-
-## 🎓 Education
-
-🎓 **B.E. in Computer Science** – Nitte Meenakshi Institute of Technology  
-🎓 **Diploma in CSE** – Ramaiah Polytechnic, Bangalore  
-📘 **Full Stack Developer Course** – JSpiders (Mar–Dec 2023)
-
----
-
-## 📫 Let's Connect
+If you're building something exciting or just want to geek out over Spring Boot, feel free to connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mamatahc)
 - 💻 [GitHub](https://github.com/Mamata15)
-- 🌍 [Quantum Share (Live)](https://quantumshare.quantumparadigm.in)
-- 📧 **mamatac566@gmail.com**
+- 📧 mamatac566@gmail.com
+- 🌐 [Quantum Share (Live App)](https://quantumshare.quantumparadigm.in)
 
 ---
 
-<p align="center"><i>“Clean code. Clean UI. Clear purpose.”</i> 🌱</p>
+<p align="center"><i>“Tech with purpose. Code with clarity. Create with joy.”</i> ✨</p>
