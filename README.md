@@ -38,11 +38,14 @@ A platform for audio-based learning.
 
 ## 🎯 What I'm Up To Now
 
-- 👩‍💻 Improving my DSA game (LeetCode, Codeforces)
+## 🧮 DSA Practice
+
+I’m sharpening my problem-solving skills daily and practicing popular patterns like Two Pointers, Sliding Window, and Dynamic Programming.
+
+- 🔗 [My LeetCode Profile](https://leetcode.com/u/MamataC15/)
 - 🔄 Building reusable components in React and microservices in Spring Boot
 - 🚀 Experimenting with Tailwind, Firebase, and UI animations
 
----
 
 ## 🎓 My Learning Journey
 
